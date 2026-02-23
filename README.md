@@ -31,8 +31,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'campus_api',
-        'USER': 'your_mysql_user',
-        'PASSWORD': 'your_mysql_password',
+        'USER': 'root',
+        'PASSWORD': '8113',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
