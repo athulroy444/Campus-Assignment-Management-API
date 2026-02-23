@@ -82,5 +82,7 @@ python manage.py runserver
 }
 ```
 
-## Postman Collection
-A Postman collection named `Campus_Assignment_Management_API.postman_collection.json` is included in the root directory.
+## Deliverables
+- **GitHub Repository**: [athulroy444/Campus-Assignment-Management-API](https://github.com/athulroy444/Campus-Assignment-Management-API)
+- **Database Schema**: Located in `api/migrations/` (Django) and a manual SQL dump in `database_schema.sql`.
+- **Postman Collection**: `Campus_Assignment_Management_API.postman_collection.json` is included in the root directory.
